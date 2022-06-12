@@ -25,6 +25,9 @@ Gitlab CI больше подойдет для выполнения постав
 
 ### Задача 2
 
+Для сбора логов можно использовать
+
 ![1](https://raw.githubusercontent.com/Evgeniy-Nikolskiy/hw-11.3/main/assets/logs.png)
+
 
 ### Задача 3
